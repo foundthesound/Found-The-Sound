@@ -5,7 +5,7 @@ locale: en_US
 description: THE DAILY ELECTRONIC MUSIC BLOG
 logo: fts-logo2.png
 search: true
-url: https://www.foundthesound.co.uk
+url: https://foundthesound.github.io/fts
 
 # Jekyll configuration
 
